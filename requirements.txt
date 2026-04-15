@@ -1,0 +1,10 @@
+flask
+flask-cors
+numpy
+opencv-python-headless
+joblib
+scikit-learn>=1.4.0
+qiskit>=1.0.0
+qiskit-ibm-runtime>=0.20.0
+streamlit>=1.32.0
+python-dotenv
