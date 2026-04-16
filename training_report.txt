@@ -2,7 +2,7 @@ PlantPulse Training Report
 =======================================================
 Mode          : fast
 Feature dims  : 63 (histogram-based)
-Test Accuracy : 14.94%
+Test Accuracy : 89.94%
 
                              precision    recall  f1-score   support
 
